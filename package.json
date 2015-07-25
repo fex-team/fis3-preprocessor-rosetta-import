@@ -1,0 +1,24 @@
+{
+  "name": "fis3-preprocessor-rosetta-import",
+  "version": "1.0.0",
+  "description": "fis3 rosetta import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/fis3-preprocessor-rosetta-import.git"
+  },
+  "keywords": [
+    "fis3",
+    "rosetta",
+    "import"
+  ],
+  "author": "fis & 移动云",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fex-team/fis3-preprocessor-rosetta-import/issues"
+  },
+  "homepage": "https://github.com/fex-team/fis3-preprocessor-rosetta-import"
+}
